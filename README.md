@@ -1,1 +1,2 @@
 # MovieDialogueSys_Failure
+Tried to create Movie Dialogues based conversational agent with the help of model used for POS Tagging, but at the end while calculating the loss function, POS has one index to check, but for the Dialogue a set of indicies are expected, facing trouble while calculating the loss function, could be ale to generate dense vector represenation of movie converstaions, with the help of LSTM and Linear models, data preprocessing is done, data is from cornell movie dialogue corpus!! 
